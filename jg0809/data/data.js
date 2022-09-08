@@ -1,0 +1,29 @@
+export const data =
+[
+    {
+        "id":1,
+        "name":"Bart",
+        "image":"/imagenes/bart.webp"
+    },
+    {
+        "id":2,
+        "name":"Lisa",
+        "image":"/imagenes/lisa.webp"
+    },
+    {
+        "id":3,
+        "name":"Marge",
+        "image":"/imagenes/marge.jpeg"
+    },
+    {
+        "id":4,
+        "name":"homero",
+        "image":"/imagenes/homer.jpg"
+    },
+    {
+        "id":5,
+        "name":"Maggie",
+        "image":"/imagenes/maggie1.gif"
+
+    }
+]
